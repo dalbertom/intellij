@@ -2,6 +2,7 @@
   <component name="Vcs.Log.Big.Repositories">
     <option name="REPOSITORIES">
       <repository path="$USER_HOME$/repo/alpha" />
+      <repository path="$USER_HOME$/repo/beta" />
       <repository path="$USER_HOME$/repo/canary" />
     </option>
   </component>
